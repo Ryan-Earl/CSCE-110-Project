@@ -1,2 +1,2 @@
-# CSCE-110-Project
+# CSCE-Project
 Project repository for the CSCE 110 group
